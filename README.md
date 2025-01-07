@@ -5,6 +5,7 @@
 # Description
 
 // documentation written by gpt-4o
+
 // u can build narch (use pyinstaller) instead run python script
 
 The narchtools project provides tools for working with archives in various formats, including ZIP, RAR, and TAR. The command line can be used to create, verify, extract, and add files to archives.
